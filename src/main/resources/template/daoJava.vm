@@ -1,0 +1,9 @@
+${packageStr}
+
+import ${mapperName};
+
+public interface ${daoSimpleName} extends ${mapperSimpleName} {
+
+
+
+}
